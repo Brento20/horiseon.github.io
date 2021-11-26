@@ -33,12 +33,17 @@ See outline below:
 
 ## HeadingHTML/body changes.
 
+
 ## .CSS stylesheet changes.
+- Added a max width of 1100px (larger than any individual element) to the * css tag to keep the content sized correctly on desktop view.
+- added a relitive position to the body css and a fixed position to the header tag. My goal was to keep the navigation prominant to help with accesability.
+- Margins on the * tag changed to auto to center the content.
+
 
 ## MISC.
 
 ## Future improvments.
 
 - Consider css animations for :hover for nav menu.
-- set min widths and max widths to create a consistant experiance across viewport sizes.
+- set min widths to create a consistant experiance across viewport sizes.
 - create contact form.
