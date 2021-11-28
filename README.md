@@ -33,17 +33,26 @@ See outline below:
 
 ## HeadingHTML/body changes.
 
+- Code added to the li items in the navigation menu can be removed to quickly disable the hover css animation if innapropriate.
+
 
 ## .CSS stylesheet changes.
+
 - Added a max width of 1100px (larger than any individual element) to the * css tag to keep the content sized correctly on desktop view.
 - added a relitive position to the body css and a fixed position to the header tag. My goal was to keep the navigation prominant to help with accesability.
 - Margins on the * tag changed to auto to center the content.
 
 
 ## MISC.
+- <strong>PLEASE NOTE</strong>  the comments inside /* */ in the index.html and style.css are to help with grading and wouldnt be pushed to a real application.
 
 ## Future improvments.
 
 - Consider css animations for :hover for nav menu.
 - set min widths to create a consistant experiance across viewport sizes.
 - create contact form.
+
+Screenshot of up to date application:
+<br>
+
+![screenshot1](/readme-screenshots/fullpage.png "Live as of 28/11/2021")
