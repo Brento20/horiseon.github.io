@@ -84,7 +84,7 @@ h3 {
     float: right;
     width: 20%;
     height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,12 +102,12 @@ h3 {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;  
 }
 
-#contentimg {
+#content-img {
     max-height: 200px;
 }
 
@@ -122,13 +122,13 @@ h3 {
     font-size: 20px;
 }
 
-/* added this based of a tutorial, i really dont know if its the most effective css animation but its fun?*/
+/* added this based of a tutorial, i really don't know if its the most effective css animation but its fun?*/
 
 .hover-underline {
   display: inline-block;
   position: relative;
   color: #ffffff;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 }
 
 .hover-underline:after {
