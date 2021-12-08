@@ -10,12 +10,11 @@
     <meta name="description" content="Take the risk out of managing your SEO, Social Management and Marketing. Let us handle that so you can build your business.">
 </head>
 
-<!-- I thought about changing the div's to things like article or aside to help with the .css but changed my mind because I still need to learn more about what tags are avaliable and how/what is more "industry standard" I read conflicting articles -->
 
 <body>
-    <div class="header">
+    <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
-        <div>
+        <nav> 
             <ul>
                 <li>
                     <a href="#search-engine-optimization" class="hover-underline">Search Engine Optimization</a>
@@ -27,38 +26,39 @@
                     <a href="#social-media-marketing"class="hover-underline">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
 
 
-    <div class="hero"><img src="./assets/images/digital-marketing-meeting-min.jpg" alt="Professionals working on solutions for website wire-frame and creating the best user experience"></div>
+<figure><img src="./assets/images/digital-marketing-meeting-min.jpg" alt="Professionals working on solutions for website wire-frame and creating the best user experience"></figure>
 
-    
-    <div class="content">
-        <div id="search-engine-optimization" class="search-engine-optimization">
+<!-- Main articles -->
+    <article class="content">
+        <div id="search-engine-optimization">
             <img id="content-img" src="./assets/images/search-engine-optimization-min.jpg" alt="A brainstorm image showing the steps behind creating a strong online presence using SEO 'Search Engine Optimization'" class="float-left" />
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
         </div>
-        <div id="online-reputation-management" class="online-reputation-management">
+        <div id="online-reputation-management">
             <img id="content-img" src="./assets/images/online-reputation-management-min.jpg" alt="Viewing graphs that highlight the boosts in reputation that come from having a strong focus on managing your online presence" class="float-right" />
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </div>
-        <div id="social-media-marketing" class="social-media-marketing">
+        <div id="social-media-marketing">
             <img id="content-img" src="./assets/images/social-media-marketing-min.jpg" alt="A group of professionals creating strategies for strong social media engagement" class="float-left" />
             <h2>Social Media Marketing</h2>
             <p>
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
             </p>
         </div>
-    </div>
+    </article>
 
-    <div class="benefits">
+<!-- Vertical section left -->
+    <aside class="benefits">
         <div class="benefit-lead">
             <h3>Lead Generation</h3>
             <img src="./assets/images/lead-generation.png" />
@@ -80,14 +80,16 @@
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </div>
-    </div>
+    </aside>
 
-    <div class="footer">
-        <h2>Made with ❤️️ by Horiseon</h2>
+<!-- Footer -->
+
+    <footer class="footer">
+        <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
+    </footer>
 </body>
 
 </html>

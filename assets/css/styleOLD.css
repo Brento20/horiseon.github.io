@@ -1,0 +1,152 @@
+/* * {
+    box-sizing: border-box;
+    max-width: 1050px;
+    padding: 0;
+    margin: auto;
+} */
+
+/* I tried my best to simplify my css and remove excess classes and ids and elements*/
+
+/* p {
+    font-size: 18px;
+} */
+
+/* body {
+    background-color: #d9dcd6;
+    position: relative;
+} */
+/* 
+h3 {
+    margin-top: 25px;
+    text-align: center;
+} */
+
+/* .header {
+    position:fixed;
+    width: 100%;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+} */
+
+/* h1 {
+    display: inline-block;
+    font-size: 48px;
+} */
+
+/* .seo {
+    color: #d9dcd6;
+} */
+
+/* .header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header :is(li, a) {
+    display: inline-block;
+    margin-left: 15px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: -75px;
+    background-size: cover;
+    background-position: center;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+
+
+.benefits {
+    margin-right: 20px;
+    padding: 20px;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+
+
+.benefits :is(.benefit-lead img, .benefit-brand img, .benefit-cost img){
+    display: block;
+    margin: 5px auto;
+    max-width: 150px;
+}
+
+.content :is(.search-engine-optimization, .online-reputation-management, .social-media-marketing){
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;  
+}
+
+#content-img {
+    max-height: 200px;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+} */
+
+/* .footer h2 {
+    font-size: 20px;
+} */
+
+/* added this based of a tutorial, i really don't know if its the most effective css animation but its fun?*/
+
+/* .hover-underline {
+  display: inline-block;
+  position: relative;
+  color: #ffffff;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.hover-underline:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform:scaleX(0);
+  height: 3px;
+  bottom: 0;
+  left: 0;
+  background-color: #ffffff3c;
+  transform-origin: bottom center;
+  transition: transform 0.5s ease-out;
+}
+
+.hover-underline:hover:after {
+  transform: scaleX(1);
+  transform-origin: bottom center;
+} */
