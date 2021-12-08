@@ -1,6 +1,6 @@
 # READ ME - Horiseon Website 1.01
 
-
+Link : https://brento20.github.io/horiseon.github.io/
 
 This update of the Horiseon website attempts to address HTML and CSS flow, improve loading time, improve Accessibility and optimise for search engins and was impliment following the below User story.
 
@@ -55,4 +55,4 @@ See outline below:
 Screenshot of up to date application:
 <br>
 
-![screenshot1](/readme-screenshots/fullpage.png "Live as of 28/11/2021")
+![screenshot1](./readme-screenshots/fullpage.png "Live as of 28/11/2021")
