@@ -55,4 +55,4 @@ See outline below:
 Screenshot of up to date application:
 <br>
 
-![screenshot1](./readme-screenshots/fullpage.png "Live as of 28/11/2021")
+![screenshot1](./readme-screenshots/fullpage.png)
